@@ -1,4 +1,4 @@
-# 🧠 Community Detection in Social Networks Using <br>DeepWalk and K-Means
+# 🧠 Community Detection in Social Networks Using <br>  DeepWalk and K-Means
 
 This project demonstrates how to detect communities in an undirected graph using **DeepWalk embeddings** and **K-Means clustering**.
 
